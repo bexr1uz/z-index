@@ -1,0 +1,37 @@
+.k{
+  position: absolute;
+  left: 850px;
+  top: 1500px;
+  z-index: 2;
+}
+.h{
+  position: absolute;
+  left: 100px;
+  top: 100px;
+  z-index: -1;
+}
+.t{
+  position: absolute;
+  left: 350px;
+  top: 550px;
+  z-index: 0;
+}
+.b{
+  position: absolute;
+  left: 600px;
+  top: 1000px;
+  z-index: 1;
+}
+.g{
+  position: absolute;
+  left: 1100px;
+  top: 2000px;
+  z-index: 3;
+}
+p{
+  font-size: 100px;
+  float: right;
+  left: 300px;
+  position: relative;
+  color: blue;
+}
